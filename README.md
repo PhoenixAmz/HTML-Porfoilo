@@ -1,2 +1,2 @@
-# HTML-Portfoilo
-Course work - Portfoilo html exercise
+# HTML-Portfolio
+Course work - Portfolio html exercise
